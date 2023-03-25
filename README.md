@@ -1,4 +1,4 @@
-# charterer
+# Flutter MVVM Clean Architecture
 
 A new Flutter project.
 
